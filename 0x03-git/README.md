@@ -1,2 +1,1 @@
-good 
-cool
+it's so awesome
